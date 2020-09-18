@@ -33,7 +33,7 @@ O VWTL (Vue Wiretrack Todo List) é um app todo list feito como desafio técnico
   - [x] Adicionar e Remover TODOS
   - [x] Adicionar Tags aos TODOS
   - [x] Marcar os TODOS que foram finalizados
-  - [x] Fitre seus TODOS por título e tags
+  - [x] Filtre seus TODOS por título e tags
   - [x] Guardar as informações da lista de TODOS no LocalStorage
 
 ---
@@ -77,6 +77,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 $ git clone
 
 # Acesse a pasta do projeto no prompt de comando
+$ cd vue-wiretrack-todo-list
 
 # Instale as dependências
 $ yarn
